@@ -19,7 +19,7 @@ const STORY = {
   },
   rabe: {
     text: "Der Rabe lässt einen silbernen Schlüssel fallen und fliegt davon.",
-    image: "https://unsplash.com/photos/a-black-bird-sitting-on-top-of-a-tree-branch-tCRflqaRxBo?w=800",
+    image: "https://images.unsplash.com/photos/a-black-bird-sitting-on-top-of-a-roof-d-vBDK5rqR0?w=800",
     options: [
       { text: "Den Schlüssel nehmen", next: "ende_gut" }
     ]
